@@ -41,8 +41,8 @@
             <div class="project">
                 <h3>Portfolio Website</h3>
                 <p>My personal portfolio website to showcase projects and experience.</p>
-                <a href="https://nomthandazo-portfolio.netlify.app" class="btn">Live Demo</a>
-                <a href="https://github.com/Teenar20/nomthandazo-web-portfolio" class="btn">View Code</a>
+                <a href="https://your-live-portfolio.com" class="btn">Live Demo</a>
+                <a href="https://github.com/Teenar20/portfolio" class="btn">View Code</a>
             </div>
         </div>
     </section>
